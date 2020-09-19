@@ -1,4 +1,16 @@
+.header {
+    background-color: navy;
+}
+
+}
+.container-md {
+    background-color: teal;
+}
+
+.container-lg {
+    background-color: violet;
+}
+
 .footer {
     background-color: rgb(6, 17, 116);
     height: 50px;
-}
