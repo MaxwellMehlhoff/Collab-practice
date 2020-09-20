@@ -2,15 +2,16 @@
     background-color: navy;
 }
 
-}
-.container-md {
+
+.column1 {
     background-color: teal;
 }
 
-.container-lg {
+.column2 {
     background-color: violet;
 }
 
 .footer {
     background-color: rgb(6, 17, 116);
-    height: 50px;
+        height: 50px;
+}
